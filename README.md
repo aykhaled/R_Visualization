@@ -28,7 +28,7 @@ These visualizations are based on ‘Grammar of Graphics’ using R Package - �
 
 ### 5. Dumbbell Plot
 
-### 6. Matrix Scatter Plot \
+### 6. Matrix Scatter Plot 
    a. Basic Matrix Scatter Plot \
    b. Matrix Scatter Plot with feature differentation
 
