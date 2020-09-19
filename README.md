@@ -6,7 +6,7 @@
 These visualizations are based on ‘Grammar of Graphics’ using R Package - ‘ggplot2’**
 \
 
-*Here I'll show these graphs with easy going coding experiences :: *
+*Here I'll show these graphs with easy going coding experiences :: 
 
 ### 1. Scatter Plot 
    a. Basic Scatter Plot \
